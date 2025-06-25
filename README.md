@@ -4,13 +4,6 @@ This Power BI project explores a dataset of books including **titles, authors, a
 
 ---
 
-## 📁 Files Included
-
-- `Dashboard.pbix` – Power BI dashboard report file
-- `0dc2ea96-d80c-4b97-b453-b9a93b87e19b.xlsx` – Excel data source containing book information
-
----
-
 ## 🔍 Dataset Overview
 
 The dataset is a collection of book records, likely scraped or collected from Goodreads or similar sources. It contains:
@@ -81,7 +74,7 @@ This project is useful for:
 
 ![image](https://github.com/user-attachments/assets/a9b43bfa-3237-4bd1-b775-42ea2ceccb47)
 
-
+---
 ## Author - Kirti Analytics Hub
 
 This project is part of my portfolio, showcasing the Power BI skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
